@@ -4,7 +4,7 @@ If there are any issues or songs missing, feel free to open an issue or a pull r
 Using <kbd>Ctrl</kbd> + <kbd>F</kbd> to search in this page
 
 ## Information
-| Path | Track | Title | Source | Bit rate (kbps) | Format | Note |
+| Path (Click to download) | Track | Title | Source | Bit rate (kbps) | Format | Note |
 | -- | -- | -- | -- | -- | -- | -- |
 | [./GEragera/Nantene!01 - GEragera - Nantene!.mp3](https://github.com/ElliotCHEN37/project-tuyu/raw/main/GEragera/Nantene!/01%20-%20GEragera%20-%20Nantene!.mp3) | [Single](https://open.spotify.com/album/0NQtr5sOL1xw6I21Bpk2ma) | Nantene! | Spotify | 160kbps | mp3 |
 | [./どんな結末がお望みだい？_星空オーケストラ/01 - ワンダーランズ×ショウタイム - どんな結末がお望みだい？ (feat. 天馬司&鳳えむ&草薙寧々&神代類&初音ミク).mp3](https://github.com/ElliotCHEN37/project-tuyu/raw/main/%E3%81%A9%E3%82%93%E3%81%AA%E7%B5%90%E6%9C%AB%E3%81%8C%E3%81%8A%E6%9C%9B%E3%81%BF%E3%81%A0%E3%81%84%EF%BC%9F_%E6%98%9F%E7%A9%BA%E3%82%AA%E3%83%BC%E3%82%B1%E3%82%B9%E3%83%88%E3%83%A9/01%20-%20%E3%83%AF%E3%83%B3%E3%83%80%E3%83%BC%E3%83%A9%E3%83%B3%E3%82%BA%C3%97%E3%82%B7%E3%83%A7%E3%82%A6%E3%82%BF%E3%82%A4%E3%83%A0%20-%20%E3%81%A9%E3%82%93%E3%81%AA%E7%B5%90%E6%9C%AB%E3%81%8C%E3%81%8A%E6%9C%9B%E3%81%BF%E3%81%A0%E3%81%84%EF%BC%9F%20(feat.%20%E5%A4%A9%E9%A6%AC%E5%8F%B8&%E9%B3%B3%E3%81%88%E3%82%80&%E8%8D%89%E8%96%99%E5%AF%A7%E3%80%85&%E7%A5%9E%E4%BB%A3%E9%A1%9E&%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF).mp3) | [どんな結末がお望みだい？/星空オーケストラ](https://open.spotify.com/album/2db7KcSQqsp2xpBjLSmqCq) | どんな結末がお望みだい？ (feat. 天馬司&鳳えむ&草薙寧々&神代類&初音ミク) | YouTube | 211kbps | mp3 |
