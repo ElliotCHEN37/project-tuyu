@@ -4,10 +4,6 @@ A backup of all tuyu songs<br>
 If there are any issues or songs missing, feel free to open an issue or a pull request<br>
 Using <kbd>Ctrl</kbd> + <kbd>F</kbd> to search in this page
 
-> INFO
-> I'm rewriting the readme for a new source
-> This source is coming with a better quality
-
 ## Information
 Single:
 | Track | Title | Album | Bit Rate | Sampling Rate | Duration | Cover |
