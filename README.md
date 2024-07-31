@@ -21,8 +21,8 @@ Single:
 | 5 | アサガオの散る頃に (feat. 星乃一歌&望月穂波&初音ミク) | Leo/need SEKAI ALBUM vol.2 | 228kbps | 44.1kHz | 03:23 | <img src="./cover/アサガオの散る頃に (feat. 星乃一歌&望月穂波&初音ミク).jpg"> |
 
 Album:
-| Track | Title | Album Bit Rate | Sampling Rate | Duration | Cover |
-| -- | -- | -- | -- | -- | -- |
+| Track | Title | Album | Bit Rate | Sampling Rate | Duration | Cover |
+| -- | -- | -- | -- | -- | -- | -- |
 | 1 | It's Raining After All | It's Raining After All | 320kbps | 48kHz | 04:04 | <img src="./cover/It_s Raining After All (Album).jpg"> |
 | 2 | Early summer | It's Raining After All | 320kbps | 48kHz | 01:23 | <img src="./cover/It_s Raining After All (Album).jpg"> |
 | 3 | Under the Summer Breeze | It's Raining After All | 320kbps | 48kHz | 03:22 | <img src="./cover/It_s Raining After All (Album).jpg"> |
