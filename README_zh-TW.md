@@ -1,13 +1,13 @@
-# Project-TUYU
+# TUYU計劃
 <img src="icon.jpg" height="125"><br>
-[中文自述檔案↗](README_zh-TW.md)<br>
-A backup of all tuyu songs<br>
-If there are any issues or songs missing, feel free to open an issue or a pull request<br>
-Using <kbd>Ctrl</kbd> + <kbd>F</kbd> to search in this page
+[English↗](README.md)<br>
+一個完整的TUYU歌曲備份<br>
+若果有任何問題，隨時歡迎開啟一個新的issue或者pull request<br>
+請用 <kbd>Ctrl</kbd> + <kbd>F</kbd> 在該頁面搜索
 
-## Information
-Single:
-| Track | Title | Album | Year | Bit Rate | Sampling Rate | Duration | Cover |
+## 資訊
+單曲:
+| \# | 標題 | 專輯 | 年份 | 位元速率 | 取樣率 | 長度 | 封面 |
 | -- | -- | -- | -- | -- | -- | -- | -- |
 | 1 | Compared Child (TUYU Remix) | Single | 2020/5/31 | 320kbps | 48kHz | 03:35 | <img src=".\cover\Compared Child (TUYU Remix).jpg"> |
 | 1 | If there was an Endpoint. (TUYU Remix) | Single | 2021/10/12 | 192kbps | 48kHz | 02:59 | <img src=".\cover\If There Was An Endpoint..jpg"> |
@@ -16,13 +16,13 @@ Single:
 | 1 | What Sort of Ending Are You Wishing For? | Single | 2022/10/31 | 320kbps | 48kHz | 03:20 | <img src="./cover/What Sort Of Ending Are You Wishing For.jpg"> |
 
 プロジェクトセカイ カラフルステージ！ feat.初音ミク:
-| Track | Title | Album | Bit Rate | Sampling Rate | Duration | Cover |
+| \# | 標題 | 專輯 | 位元速率 | 取樣率 | 長度 | 封面 |
 | -- | -- | -- | -- | -- | -- | -- |
 | 1 | どんな結末がお望みだい？ (feat. 天馬司&鳳えむ&草薙寧々&神代類&初音ミク) | どんな結末がお望みだい？/星空オーケストラ | 211kbps | 44.1kHz | 03:24 | <img src="./cover/どんな結末がお望みだい？ (feat. 天馬司&鳳えむ&草薙寧々&神代類&初音ミク).jpg"> |
 | 5 | アサガオの散る頃に (feat. 星乃一歌&望月穂波&初音ミク) | Leo/need SEKAI ALBUM vol.2 | 228kbps | 44.1kHz | 03:23 | <img src="./cover/アサガオの散る頃に (feat. 星乃一歌&望月穂波&初音ミク).jpg"> |
 
-Album:
-| Track | Title | Album | Bit Rate | Sampling Rate | Duration | Cover |
+專輯:
+| \# | 標題 | 專輯 | 位元速率 | 取樣率 | 長度 | 封面 |
 | -- | -- | -- | -- | -- | -- | -- |
 | 1 | It's Raining After All | It's Raining After All | 320kbps | 48kHz | 04:04 | <img src="./cover/It_s Raining After All (Album).jpg"> |
 | 2 | Early summer | It's Raining After All | 320kbps | 48kHz | 01:23 | <img src="./cover/It_s Raining After All (Album).jpg"> |
@@ -60,5 +60,5 @@ Album:
 | 11 | It Might Be Painful, But I Still Love It. | Under Mentality | 320kbps | 48kHz | 03:23 | <img src="./cover/It Might Be Painful, But I Still Love It..jpg"> |
 | 12 | The Tale of a Moonlight Night | Under Mentality | 320kbps | 48kHz | 03:07 | <img src="./cover/Under Mentality (Album) [First-Press Limited Edition].jpg"> |
 
-## Special Thanks
-- [Kymil](https://www.reddit.com/user/realKymil/) for providing a better source on Google Drive
+## 特別感謝
+- [Kymil](https://www.reddit.com/user/realKymil/) \- 提供了託管於Google Drive的品質更好的源
