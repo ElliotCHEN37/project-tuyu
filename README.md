@@ -6,13 +6,13 @@ Using <kbd>Ctrl</kbd> + <kbd>F</kbd> to search in this page
 
 ## Information
 Single:
-| Track | Title | Album | Bit Rate | Sampling Rate | Duration | Cover |
-| -- | -- | -- | -- | -- | -- | -- |
-| 1 | Compared Child (TUYU Remix) | Single | 320kbps | 48kHz | 03:35 | <img src=".\cover\Compared Child (TUYU Remix).jpg"> |
-| 1 | If there was an Endpoint. (TUYU Remix) | Single | 192kbps | 48kHz | 02:59 | <img src=".\cover\If There Was An Endpoint..jpg"> |
-| 1 | It's Raining Nevertheless | Single | 320kbps | 48kHz | 03:43 | <img src=".\cover\It_s Raining Nevertheless.jpg"> |
-| 1 | Revolutionary Front | Single | 320kbps | 48kHz | 03:40 | <img src="./cover/Revolutionary Front.png"> |
-| 1 | What Sort of Ending Are You Wishing For? | Single | 320kbps | 48kHz | 03:20 | <img src="./cover/What Sort Of Ending Are You Wishing For.jpg"> |
+| Track | Title | Album | Year | Bit Rate | Sampling Rate | Duration | Cover |
+| -- | -- | -- | -- | -- | -- | -- | -- |
+| 1 | Compared Child (TUYU Remix) | Single | 2020/5/31 | 320kbps | 48kHz | 03:35 | <img src=".\cover\Compared Child (TUYU Remix).jpg"> |
+| 1 | If there was an Endpoint. (TUYU Remix) | Single | 2021/10/12 | 192kbps | 48kHz | 02:59 | <img src=".\cover\If There Was An Endpoint..jpg"> |
+| 1 | It's Raining Nevertheless | Single | 2024/04/13 | 320kbps | 48kHz | 03:43 | <img src=".\cover\It_s Raining Nevertheless.jpg"> |
+| 1 | Revolutionary Front | Single | 2023/10/29 | 320kbps | 48kHz | 03:40 | <img src="./cover/Revolutionary Front.png"> |
+| 1 | What Sort of Ending Are You Wishing For? | Single | 2022/10/31 | 320kbps | 48kHz | 03:20 | <img src="./cover/What Sort Of Ending Are You Wishing For.jpg"> |
 
 プロジェクトセカイ カラフルステージ！ feat.初音ミク:
 | Track | Title | Album | Bit Rate | Sampling Rate | Duration | Cover |
@@ -21,7 +21,7 @@ Single:
 | 5 | アサガオの散る頃に (feat. 星乃一歌&望月穂波&初音ミク) | Leo/need SEKAI ALBUM vol.2 | 228kbps | 44.1kHz | 03:23 | <img src="./cover/アサガオの散る頃に (feat. 星乃一歌&望月穂波&初音ミク).jpg"> |
 
 Album:
-| Track | Title | Album | Bit Rate | Sampling Rate | Duration | Cover |
+| Track | Title | Album Bit Rate | Sampling Rate | Duration | Cover |
 | -- | -- | -- | -- | -- | -- | -- |
 | 1 | It's Raining After All | It's Raining After All | 320kbps | 48kHz | 04:04 | <img src="./cover/It_s Raining After All (Album).jpg"> |
 | 2 | Early summer | It's Raining After All | 320kbps | 48kHz | 01:23 | <img src="./cover/It_s Raining After All (Album).jpg"> |
