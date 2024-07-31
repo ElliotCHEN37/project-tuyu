@@ -2,7 +2,6 @@
 <img src="icon.jpg" height="125"><br>
 [English↗](README.md)<br>
 一個完整的TUYU歌曲備份<br>
-><p id="result"></p>
 若果有任何問題，隨時歡迎開啟一個新的issue或者pull request<br>
 請用 <kbd>Ctrl</kbd> + <kbd>F</kbd> 在該頁面搜索
 
@@ -63,14 +62,3 @@
 
 ## 特別感謝
 - [Kymil](https://www.reddit.com/user/realKymil/) \- 提供了託管於Google Drive的品質更好的源
-
-<script>
-    function calculateDays() {
-        const targetDate = new Date("2024-05-31");
-        const today = new Date();
-        const timeDifference = today - targetDate;
-        const daysDifference = Math.ceil(timeDifference / (1000 * 60 * 60 * 24));
-        document.getElementById("result").textContent = `自PUSU殺人未遂(2024年5月31日)已經過去了 ${daysDifference} 天`;
-    }
-    calculateDays();
-</script>
