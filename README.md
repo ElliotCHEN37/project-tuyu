@@ -1,17 +1,27 @@
 # Project-TUYU
 <img src="icon.jpg" height="125"><br>
-[中文自述檔↗](README_zh-TW.md)<br>
 A backup of all tuyu songs<br>
 If there are any issues or songs missing, feel free to open an issue or a pull request<br>
 Using <kbd>Ctrl</kbd> + <kbd>F</kbd> to search in this page
 
-!!! LRC (Lyric) files are available for three albums now!!!!
+!!!LRC (Lyric) files were available now!!!
 
-NOTE:<BR>
+Source:<br>
+Last update date: 2024/08/04<br>
 Songs in プロジェクトセカイ カラフルステージ！ feat.初音ミク were converted from YouTube MV<br>
-TUYU Piano Collection were from [here](https://www.reddit.com/r/TUYU_official/comments/1dmkqpa/complete_tuyu_archive/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+TUYU Piano Collection were from [here](https://www.reddit.com/r/TUYU_official/comments/1dmkqpa/complete_tuyu_archive/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)<br>
+アンダーメンタリティ were from [ototoy.jp](https://ototoy.jp)<br>
+やっぱり雨は降るんだね and 貴方を不幸に誘いますね were from cd (perhaps)
 
 ## Information
+Amazon & アニメイト Benefits:
+| Track | Title | Album | Year | Bit Rate | Sampling Rate | Duration | Format | Lyric File Available | Cover |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 1 | やっぱり雨は降るんだね Acoustic arrange ver. | やっぱり雨は降るんだね | 2020 | 775kbps | 44.1kHz | 03:34 | FLAC | False | <img src="./cover/It_s Raining After All (Album).jpg"> |
+| 2 | くらべられっ子 Acoustic arrange ver. | やっぱり雨は降るんだね | 2020 | 806kbps | 44.1kHz | 03:37 | FLAC | False | <img src="./cover/It_s Raining After All (Album).jpg"> |
+| 1 | ナツノカゼ御来光(TUYU arrange ver.) | 貴方を不幸に誘いますね(紙ジャケットCD付) | 2021 | 320kbps | 44.1kHz | 02:53 | MP3 | False | <img src="./cover/01.ナツノカゼ御来光(TUYU arrange ver.).jpg"> |
+| 1 | 梅雨明けの(TUYU arrange ver.) | 貴方を不幸に誘いますね(紙ジャケットCD付) | 2021 | 320kbps | 44.1kHz | 03:21 | MP3 | False | <img src="./cover/01.梅雨明けの(TUYU arrange ver.).jpg"> | 
+
 Single:
 | Track | Title | Album | Year | Bit Rate | Sampling Rate | Duration | Format | Lyric File Available | Cover |
 | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
@@ -30,41 +40,41 @@ Single:
 Album:
 | Track | Title | Album | Year | Bit Rate | Sampling Rate | Duration | Format | Lyric File Available | Cover |
 | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
-| 1 | It's Raining After All | It's Raining After All | 2020/02/19 | 1021kbps | 44.1kHz | 04:04 | FLAC | True | <img src="./cover/It_s Raining After All (Album).jpg"> |
-| 2 | Early summer | It's Raining After All | 2020/02/19 | 691kbps | 44.1kHz | 01:23 | FLAC | False | <img src="./cover/It_s Raining After All (Album).jpg"> |
-| 3 | Under the Summer Breeze | It's Raining After All | 2020/02/19 | 996kbps | 44.1kHz | 03:22 | FLAC | True | <img src="./cover/It_s Raining After All (Album).jpg"> |
-| 4 | When the Morning Glory Falls | It's Raining After All | 2020/02/19 | 920kbps | 44.1kHz | 03:22 | FLAC | True | <img src="./cover/It_s Raining After All (Album).jpg"> |
-| 5 | Loneliness and the Future | It's Raining After All | 2020/02/19 | 707kbps | 44.1kHz | 02:27 | FLAC | True | <img src="./cover/It_s Raining After All (Album).jpg"> |
-| 6 | I'm getting on the bus to the other world, see ya! | It's Raining After All | 2020/02/19 | 1019kbps | 44.1kHz | 03:14 | FLAC | True | <img src="./cover/It_s Raining After All (Album).jpg"> |
-| 7 | Perhaps I'll be able to become the Sun. | It's Raining After All | 2020/02/19 | 990kbps | 44.1kHz | 04:03 | FLAC | True | <img src="./cover/It_s Raining After All (Album).jpg"> |
-| 8 | Envy | It's Raining After All | 2020/02/19 | 960kbps | 44.1kHz | 01:48 | FLAC | False | <img src="./cover/It_s Raining After All (Album).jpg"> |
-| 9 | Compared Child | It's Raining After All | 2020/02/19 | 1062kbps | 44.1kHz | 03:34 | FLAC | True | <img src="./cover/It_s Raining After All (Album).jpg"> |
-| 10 | Goodbye to Rock you | It's Raining After All | 2020/02/19 | 1039kbps | 44.1kHz | 03:28 | FLAC | True | <img src="./cover/It_s Raining After All (Album).jpg"> |
-| 11 | Even tears withered | It's Raining After All | 2020/02/19 | 1047kbps | 44.1kHz | 04:09 | FLAC | True | <img src="./cover/It_s Raining After All (Album).jpg"> |
-| 1 | Greed | I'll put you in misery | 2021/07/14 | 624kbps | 44.1kHz | 01:39 | FLAC | False | <img src="./cover/I_ll Put You In Misery (Album).jpg"> |
-| 2 | Dämonisch | I'll put you in misery | 2021/07/14 | 1062kbps | 44.1kHz | 02:39 | FLAC | True | <img src="./cover/I_ll Put You In Misery (Album).jpg"> |
-| 3 | Trapped in the past | I'll put you in misery | 2021/07/14 | 994kbps | 44.1kHz | 03:48 | FLAC | True | <img src="./cover/I_ll Put You In Misery (Album).jpg"> |
-| 4 | What if this isn’t a slave? | I'll put you in misery | 2021/07/14 | 1010kbps | 44.1kHz | 02:46 | FLAC | True | <img src="./cover/I_ll Put You In Misery (Album).jpg"> |
-| 5 | Loser Girl | I'll put you in misery | 2021/07/14 | 1020kbps | 44.1kHz | 03:17 | FLAC | True | <img src="./cover/I_ll Put You In Misery (Album).jpg"> |
-| 6 | To bask in the rain | I'll put you in misery | 2021/07/14 | 952kbps | 44.1kHz | 03:19 | FLAC | True | <img src="./cover/I_ll Put You In Misery (Album).jpg"> |
-| 7 | Autumn rain front | I'll put you in misery | 2021/07/14 | 908kbps | 44.1kHz | 01:19 | FLAC | False | <img src="./cover/I_ll Put You In Misery (Album).jpg"> |
-| 8 | Faithful dog “Hachi” | I'll put you in misery | 2021/07/14 | 857kbps | 44.1kHz | 03:01 | FLAC | True | <img src="./cover/I_ll Put You In Misery (Album).jpg"> |
-| 9 | Territory Battle | I'll put you in misery | 2021/07/14 | 1114kbps | 44.1kHz | 02:31 | FLAC | True | <img src="./cover/I_ll Put You In Misery (Album).jpg"> |
-| 10 | Hide and Seek Alone | I'll put you in misery | 2021/07/14 | 1027kbps | 44.1kHz | 03:13 | FLAC | True | <img src="./cover/I_ll Put You In Misery (Album).jpg"> |
-| 11 | Being low as dirt, taking what’s important from me | I'll put you in misery | 2021/07/14 | 1034kbps | 44.1kHz | 03:12 | FLAC | True | <img src="./cover/I_ll Put You In Misery (Album).jpg"> |
-| 12 | If there was an Endpoint. | I'll put you in misery | 2021/07/14 | 1049kbps | 44.1kHz | 02:59 | FLAC | True | <img src="./cover/I_ll Put You In Misery (Album).jpg"> |
-| 1 | Under Mentality | Under Mentality | 2023/06/21 | 985kbps | 44.1kHz | 01:21 | FLAC | False | <img src="./cover/Under Mentality (Album) [First-Press Limited Edition].jpg"> |
-| 2 | The Dissatisfaction and Discontent Disease | Under Mentality | 2023/06/21 | 910kbps | 44.1kHz | 00:21 | FLAC | True | <img src="./cover/Under Mentality (Album) [First-Press Limited Edition].jpg"> |
-| 3 | Under Kids | Under Mentality | 2023/06/21 | 1098kbps | 44.1kHz | 03:25 | FLAC | True | <img src="./cover/Under Mentality (Album) [First-Press Limited Edition].jpg"> |
-| 4 | The Ravings of a Scheming Woman | Under Mentality | 2023/06/21 | 953kbps | 44.1kHz | 00:17 | FLAC | True | <img src="./cover/Under Mentality (Album) [First-Press Limited Edition].jpg"> |
-| 5 | Under Heroine | Under Mentality | 2023/06/21 | 1110kbps | 44.1kHz | 02:47 | FLAC | True | <img src="./cover/Under Mentality (Album) [First-Press Limited Edition].jpg"> |
-| 6 | I Hope You Can Be an Adult Someday. | Under Mentality | 2023/06/21 | 1114kbps | 44.1kHz | 02:54 | FLAC | True | <img src="./cover/Under Mentality (Album) [First-Press Limited Edition].jpg"> |
-| 7 | Shelter from the Rain | Under Mentality | 2023/06/21 | 693kbps | 44.1kHz | 01:16 | FLAC | False | <img src="./cover/Under Mentality (Album) [First-Press Limited Edition].jpg"> |
-| 8 | Overcast Skies | Under Mentality | 2023/06/21 | 1006kbps | 48kHz | 02:42 | FLAC | True | <img src="./cover/Under Mentality (Album) [First-Press Limited Edition].jpg"> |
-| 9 | Rain Fall | Under Mentality | 2023/06/21 | 1092kbps | 48kHz | 03:45 | FLAC | True | <img src="./cover/Under Mentality (Album) [First-Press Limited Edition].jpg"> |
-| 10 | And That's Why I Can't Stop! | Under Mentality | 2023/06/21 | 1097kbps | 48kHz | 02:44 | FLAC | True | <img src="./cover/Under Mentality (Album) [First-Press Limited Edition].jpg"> |
-| 11 | It Might Be Painful, But I Still Love It. | Under Mentality | 2023/06/21 | 1072kbps | 48kHz | 03:23 | FLAC | True | <img src="./cover/Under Mentality (Album) [First-Press Limited Edition].jpg"> |
-| 12 | The Tale of a Moonlight Night | Under Mentality | 2023/06/21 | 963kbps | 48kHz | 03:07 | FLAC | True | <img src="./cover/Under Mentality (Album) [First-Press Limited Edition].jpg"> |
+| 1 | やっぱり雨は降るんだね | やっぱり雨は降るんだね | 2020 | 1105kbps | 44.1kHz | 04:05 | FLAC | True | <img src="./cover/It_s Raining After All (Album).jpg"> |
+| 2 | 夏浅し | やっぱり雨は降るんだね | 2020 | 761kbps | 44.1kHz | 01:23 | FLAC | False | <img src="./cover/It_s Raining After All (Album).jpg"> |
+| 3 | 風薫る空の下 | やっぱり雨は降るんだね | 2020 | 1065kbps | 44.1kHz | 03:23 | FLAC | True | <img src="./cover/It_s Raining After All (Album).jpg"> |
+| 4 | アサガオの散る頃に | やっぱり雨は降るんだね | 2020 | 1014kbps | 44.1kHz | 03:22 | FLAC | True | <img src="./cover/It_s Raining After All (Album).jpg"> |
+| 5 | ひとりぼっちと未来 | やっぱり雨は降るんだね | 2020 | 783kbps | 44.1kHz | 02:28 | FLAC | True | <img src="./cover/It_s Raining After All (Album).jpg"> |
+| 6 | あの世行きのバスに乗ってさらば。 | やっぱり雨は降るんだね | 2020 | 1098kbps | 44.1kHz | 03:15 | FLAC | True | <img src="./cover/It_s Raining After All (Album).jpg"> |
+| 7 | 太陽になれるかな | やっぱり雨は降るんだね | 2020 | 1101kbps | 44.1kHz | 04:04 | FLAC | True | <img src="./cover/It_s Raining After All (Album).jpg"> |
+| 8 | 羨望 | やっぱり雨は降るんだね | 2020 | 1040kbps | 44.1kHz | 01:48 | FLAC | False | <img src="./cover/It_s Raining After All (Album).jpg"> |
+| 9 | くらべられっ子 | やっぱり雨は降るんだね | 2020 | 1122kbps | 44.1kHz | 03:34 | FLAC | True | <img src="./cover/It_s Raining After All (Album).jpg"> |
+| 10 | ロックな君とはお別れだ | やっぱり雨は降るんだね | 2020 | 1112kbps | 44.1kHz | 03:28 | FLAC | True | <img src="./cover/It_s Raining After All (Album).jpg"> |
+| 11 | ナミカレ | やっぱり雨は降るんだね | 2020 | 1119kbps | 44.1kHz | 04:10 | FLAC | True | <img src="./cover/It_s Raining After All (Album).jpg"> |
+| 1 | 強欲 | 貴方を不幸に誘いますね | 2021 | 611kbps | 44.1kHz | 01:39 | FLAC | False | <img src="./cover/I_ll Put You In Misery (Album).jpg"> |
+| 2 | デモーニッシュ | 貴方を不幸に誘いますね | 2021 | 1047kbps | 44.1kHz | 02:39 | FLAC | True | <img src="./cover/I_ll Put You In Misery (Album).jpg"> |
+| 3 | 過去に囚われている | 貴方を不幸に誘いますね | 2021 | 982kbps | 44.1kHz | 03:48 | FLAC | True | <img src="./cover/I_ll Put You In Misery (Album).jpg"> |
+| 4 | 奴隷じゃないなら何ですか？ | 貴方を不幸に誘いますね | 2021 | 995kbps | 44.1kHz | 02:46 | FLAC | True | <img src="./cover/I_ll Put You In Misery (Album).jpg"> |
+| 5 | ルーザーガール | 貴方を不幸に誘いますね | 2021 | 1006kbps | 44.1kHz | 03:17 | FLAC | True | <img src="./cover/I_ll Put You In Misery (Album).jpg"> |
+| 6 | 雨を浴びる | 貴方を不幸に誘いますね | 2021 | 942kbps | 44.1kHz | 03:19 | FLAC | True | <img src="./cover/I_ll Put You In Misery (Album).jpg"> |
+| 7 | 秋雨前線 | 貴方を不幸に誘いますね | 2021 | 894kbps | 44.1kHz | 01:19 | FLAC | False | <img src="./cover/I_ll Put You In Misery (Album).jpg"> |
+| 8 | 忠犬ハチ | 貴方を不幸に誘いますね | 2021 | 844kbps | 44.1kHz | 03:01 | FLAC | True | <img src="./cover/I_ll Put You In Misery (Album).jpg"> |
+| 9 | テリトリーバトル | 貴方を不幸に誘いますね | 2021 | 1106kbps | 44.1kHz | 02:31 | FLAC | True | <img src="./cover/I_ll Put You In Misery (Album).jpg"> |
+| 10 | かくれんぼっち | 貴方を不幸に誘いますね | 2021 | 1018kbps | 44.1kHz | 03:13 | FLAC | True | <img src="./cover/I_ll Put You In Misery (Album).jpg"> |
+| 11 | 泥の分際で私だけの大切を奪おうだなんて | 貴方を不幸に誘いますね | 2021 | 1026kbps | 44.1kHz | 03:12 | FLAC | True | <img src="./cover/I_ll Put You In Misery (Album).jpg"> |
+| 12 | 終点の先が在るとするならば。 | 貴方を不幸に誘いますね | 2021 | 1040kbps | 44.1kHz | 02:59 | FLAC | True | <img src="./cover/I_ll Put You In Misery (Album).jpg"> |
+| 1 | Under Mentality -instrumental- | アンダーメンタリティ | 2023 | 1784kbps | 48kHz | 01:21 | FLAC | False | <img src="./cover/Under Mentality (Album) [First-Press Limited Edition].jpg"> |
+| 2 | 不平不満の病 -monologue- | アンダーメンタリティ | 2023 | 1686kbps | 48kHz | 00:21 | FLAC | True | <img src="./cover/Under Mentality (Album) [First-Press Limited Edition].jpg"> |
+| 3 | アンダーキッズ | アンダーメンタリティ | 2023 | 1917kbps | 48kHz | 03:25 | FLAC | True | <img src="./cover/Under Mentality (Album) [First-Press Limited Edition].jpg"> |
+| 4 | 腹黒女の戯言 -monologue- | アンダーメンタリティ | 2023 | 1737kbps | 48kHz | 00:17 | FLAC | True | <img src="./cover/Under Mentality (Album) [First-Press Limited Edition].jpg"> |
+| 5 | アンダーヒロイン | アンダーメンタリティ | 2023 | 1929kbps | 48kHz | 02:47 | FLAC | True | <img src="./cover/Under Mentality (Album) [First-Press Limited Edition].jpg"> |
+| 6 | いつかオトナになれるといいね。 | アンダーメンタリティ | 2023 | 1934kbps | 48kHz | 02:54 | FLAC | True | <img src="./cover/Under Mentality (Album) [First-Press Limited Edition].jpg"> |
+| 7 | 雨宿り -instrumental- | アンダーメンタリティ | 2023 | 1468kbps | 48kHz | 01:16 | FLAC | False | <img src="./cover/Under Mentality (Album) [First-Press Limited Edition].jpg"> |
+| 8 | 雨模様 | アンダーメンタリティ | 2023 | 1812kbps | 48kHz | 02:42 | FLAC | True | <img src="./cover/Under Mentality (Album) [First-Press Limited Edition].jpg"> |
+| 9 | レインフォール | アンダーメンタリティ | 2023 | 1911kbps | 48kHz | 03:45 | FLAC | True | <img src="./cover/Under Mentality (Album) [First-Press Limited Edition].jpg"> |
+| 10 | これだからやめらんない! | アンダーメンタリティ | 2023 | 1912kbps | 48kHz | 02:44 | FLAC | True | <img src="./cover/Under Mentality (Album) [First-Press Limited Edition].jpg"> |
+| 11 | 傷つけど、愛してる。 | アンダーメンタリティ | 2023 | 1887kbps | 48kHz | 03:23 | FLAC | True | <img src="./cover/Under Mentality (Album) [First-Press Limited Edition].jpg"> |
+| 12 | 朧月夜物語 | アンダーメンタリティ | 2023 | 1765kbps | 48kHz | 03:07 | FLAC | True | <img src="./cover/Under Mentality (Album) [First-Press Limited Edition].jpg"> |
 | 1 | 『どんな結末がお望みだい？』 piano ver. | TUYU Piano Collection | N/A | 64kbps | 48kHz | 00:51 | MP3 | False | <img src="./cover/TUYU Piano Collection With Logo.jpg"> |
 | 2 | 『霧雨の日に』 piano ver. | TUYU Piano Collection | N/A | 64kbps | 48kHz | 01:32 | MP3 | False | <img src="./cover/TUYU Piano Collection With Logo.jpg"> |
 | 3 | 『やっぱり雨は降るんだね』 piano ver. | TUYU Piano Collection | N/A | 64kbps | 48kHz | 01:36 | MP3 | False | <img src="./cover/TUYU Piano Collection With Logo.jpg"> |
