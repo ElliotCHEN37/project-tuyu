@@ -13,6 +13,14 @@ TUYU Piano Collection were from [here](https://www.reddit.com/r/TUYU_official/co
 アンダーメンタリティ were from [ototoy.jp](https://ototoy.jp)<br>
 やっぱり雨は降るんだね and 貴方を不幸に誘いますね were from cd (perhaps)
 
+For those who wants songs in MP3 format, I provided a .bat file for you. <br>
+Requirement: ffmpeg<br>
+Usage:<br>
+1. Download the song(s) you want to convert
+2. Download this .bat file
+3. Place it in the dir where you download the songs
+4. Run it
+
 ## Information
 Amazon & アニメイト Benefits:
 | Track | Title | Album | Year | Bit Rate | Sampling Rate | Duration | Format | Lyric File Available | Cover |
