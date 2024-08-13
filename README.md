@@ -7,8 +7,8 @@ Using <kbd>Ctrl</kbd> + <kbd>F</kbd> to search in this page
 !!!LRC (Lyric) files were available now!!!
 
 Source:<br>
-Last update date: 2024/08/04<br>
-Songs in プロジェクトセカイ カラフルステージ！ feat.初音ミク were converted from YouTube MV<br>
+Last update date: 2024/08/13<br>
+Songs in プロジェクトセカイ カラフルステージ！ feat.初音ミク were from issues \#1<br>
 TUYU Piano Collection were from [here](https://www.reddit.com/r/TUYU_official/comments/1dmkqpa/complete_tuyu_archive/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)<br>
 アンダーメンタリティ were from [ototoy.jp](https://ototoy.jp)<br>
 やっぱり雨は降るんだね and 貴方を不幸に誘いますね were from cd (perhaps)
