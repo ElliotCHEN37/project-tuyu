@@ -42,8 +42,8 @@ Single:
 プロジェクトセカイ カラフルステージ！ feat.初音ミク:
 | Track | Title | Album | Bit Rate | Sampling Rate | Duration | Format | Lyric File Available | Cover |
 | -- | -- | -- | -- | -- | -- | -- | -- | -- |
-| 1 | どんな結末がお望みだい？ (feat. 天馬司&鳳えむ&草薙寧々&神代類&初音ミク) | どんな結末がお望みだい？/星空オーケストラ | 211kbps | 44.1kHz | 03:24 | MP3 | No | <img src="./cover/どんな結末がお望みだい？ (feat. 天馬司&鳳えむ&草薙寧々&神代類&初音ミク).jpg"> |
-| 5 | アサガオの散る頃に (feat. 星乃一歌&望月穂波&初音ミク) | Leo/need SEKAI ALBUM vol.2 | 228kbps | 44.1kHz | 03:23 | MP3 | No | <img src="./cover/アサガオの散る頃に (feat. 星乃一歌&望月穂波&初音ミク).jpg"> |
+| 1 | どんな結末がお望みだい？ (feat. 天馬司&鳳えむ&草薙寧々&神代類&初音ミク) | どんな結末がお望みだい？/星空オーケストラ | 316kbps | 44.1kHz | 03:21 | OGG | No | <img src="./cover/どんな結末がお望みだい？ (feat. 天馬司&鳳えむ&草薙寧々&神代類&初音ミク).jpg"> |
+| 5 | アサガオの散る頃に (feat. 星乃一歌&望月穂波&初音ミク) | Leo/need SEKAI ALBUM vol.2 | 934kbps | 44.1kHz | 03:23 | FLAC | No | <img src="./cover/アサガオの散る頃に (feat. 星乃一歌&望月穂波&初音ミク).jpg"> |
 
 Album:
 | Track | Title | Album | Year | Bit Rate | Sampling Rate | Duration | Format | Lyric File Available | Cover |
