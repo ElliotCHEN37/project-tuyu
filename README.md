@@ -4,26 +4,20 @@ A backup of all tuyu songs<br>
 If there are any issues or songs missing, feel free to open an issue or a pull request<br>
 Using <kbd>Ctrl</kbd> + <kbd>F</kbd> to search in this page
 
-!!!LRC (Lyric) files were available now!!!
+Lyrics were embedded in the audio file<br>
+Meta data tag: `LYRICS`<br>
+Lyrics embedded were sycned
 
-Source:<br>
-Last update date: 2024/08/13<br>
 Songs in プロジェクトセカイ カラフルステージ！ feat.初音ミク were from issues \#1<br>
 TUYU Piano Collection were from [here](https://www.reddit.com/r/TUYU_official/comments/1dmkqpa/complete_tuyu_archive/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)<br>
 アンダーメンタリティ were from [ototoy.jp](https://ototoy.jp)<br>
-やっぱり雨は降るんだね and 貴方を不幸に誘いますね were from cd (perhaps)
 
-For those who wants songs in MP3 format, I provided a .bat file for you. <br>
-Requirement: ffmpeg<br>
-Usage:<br>
-1. Download the song(s) you want to convert
-2. Download this .bat file
-3. Place it in the dir where you download the songs
-4. Run it
+For those who wants songs in MP3 format, you can use the provided .bat file. <br>
+Requirement: ffmpeg
 
 ## Information
 Amazon & アニメイト Benefits:
-| Track | Title | Album | Year | Bit Rate | Sampling Rate | Duration | Format | Lyric File Available | Cover |
+| Track | Title | Album | Year | Bit Rate | Sampling Rate | Duration | Format | Lyric Embedded | Cover |
 | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
 | 1 | やっぱり雨は降るんだね Acoustic arrange ver. | やっぱり雨は降るんだね | 2020 | 775kbps | 44.1kHz | 03:34 | FLAC | No | <img src="./cover/It_s Raining After All (Album).jpg"> |
 | 2 | くらべられっ子 Acoustic arrange ver. | やっぱり雨は降るんだね | 2020 | 806kbps | 44.1kHz | 03:37 | FLAC | No | <img src="./cover/It_s Raining After All (Album).jpg"> |
@@ -31,7 +25,7 @@ Amazon & アニメイト Benefits:
 | 1 | 梅雨明けの(TUYU arrange ver.) | 貴方を不幸に誘いますね(紙ジャケットCD付) | 2021 | 320kbps | 44.1kHz | 03:21 | MP3 | No | <img src="./cover/01.梅雨明けの(TUYU arrange ver.).jpg"> | 
 
 Single:
-| Track | Title | Album | Year | Bit Rate | Sampling Rate | Duration | Format | Lyric File Available | Cover |
+| Track | Title | Album | Year | Bit Rate | Sampling Rate | Duration | Format | Lyric Embedded | Cover |
 | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
 | 1 | Compared Child (TUYU Remix) | Single | 2020/6/1 | 1092kbps | 44.1kHz | 03:35 | FLAC | Yes | <img src=".\cover\Compared Child (TUYU Remix).jpg"> |
 | 1 | If there was an Endpoint. (TUYU Remix) | Single | 2021/10/12 | 192kbps | 48kHz | 02:59 | MP3 | No | <img src=".\cover\If There Was An Endpoint..jpg"> |
@@ -40,13 +34,13 @@ Single:
 | 1 | What Sort of Ending Are You Wishing For? | Single | 2022/10/30 | 1036kbps | 44.1kHz | 03:20 | FLAC | Yes | <img src="./cover/What Sort Of Ending Are You Wishing For.jpg"> |
 
 プロジェクトセカイ カラフルステージ！ feat.初音ミク:
-| Track | Title | Album | Bit Rate | Sampling Rate | Duration | Format | Lyric File Available | Cover |
+| Track | Title | Album | Bit Rate | Sampling Rate | Duration | Format | Lyric Embedded | Cover |
 | -- | -- | -- | -- | -- | -- | -- | -- | -- |
 | 1 | どんな結末がお望みだい？ (feat. 天馬司&鳳えむ&草薙寧々&神代類&初音ミク) | どんな結末がお望みだい？/星空オーケストラ | 316kbps | 44.1kHz | 03:21 | OGG | No | <img src="./cover/どんな結末がお望みだい？ (feat. 天馬司&鳳えむ&草薙寧々&神代類&初音ミク).jpg"> |
 | 5 | アサガオの散る頃に (feat. 星乃一歌&望月穂波&初音ミク) | Leo/need SEKAI ALBUM vol.2 | 934kbps | 44.1kHz | 03:23 | FLAC | No | <img src="./cover/アサガオの散る頃に (feat. 星乃一歌&望月穂波&初音ミク).jpg"> |
 
 Album:
-| Track | Title | Album | Year | Bit Rate | Sampling Rate | Duration | Format | Lyric File Available | Cover |
+| Track | Title | Album | Year | Bit Rate | Sampling Rate | Duration | Format | Lyric Embedded | Cover |
 | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
 | 1 | やっぱり雨は降るんだね | やっぱり雨は降るんだね | 2020 | 1105kbps | 44.1kHz | 04:05 | FLAC | Yes | <img src="./cover/It_s Raining After All (Album).jpg"> |
 | 2 | 夏浅し | やっぱり雨は降るんだね | 2020 | 761kbps | 44.1kHz | 01:23 | FLAC | No | <img src="./cover/It_s Raining After All (Album).jpg"> |
