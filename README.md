@@ -4,13 +4,22 @@ A backup of all tuyu songs<br>
 If there are any issues or songs missing, feel free to open an issue or a pull request<br>
 Using <kbd>Ctrl</kbd> + <kbd>F</kbd> to search in this page
 
-Lyrics were embedded in the audio file<br>
-Meta data tag: `LYRICS`<br>
-Lyrics embedded were sycned
+## Changelog
+- 2024/08/24<br>
+	New FLAC source for Leo／need SEKAI ALBUM Vol.2 and どんな結末がお望みだい？／星空オーケストラ<br>
+	Remove embedded lyrics<Br>
+	Re-download lyrics using GMxLRC<br>
+	More Singles added
 
-Songs in プロジェクトセカイ カラフルステージ！ feat.初音ミク were from issues \#1<br>
-TUYU Piano Collection were from [here](https://www.reddit.com/r/TUYU_official/comments/1dmkqpa/complete_tuyu_archive/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)<br>
-アンダーメンタリティ were from [ototoy.jp](https://ototoy.jp)<br>
+## Sources
+| Track | Source |
+| -- | -- |
+| Leo／need SEKAI ALBUM Vol.2 | CD ([Nyaa.si](https://nyaa.si)) |
+| どんな結末がお望みだい？／星空オーケストラ | CD ([Nyaa.si](https://nyaa.si)) |
+| やっぱり雨は降るんだね | CD ([Nyaa.si](https://nyaa.si)) |
+| 貴方を不幸に誘いますね | CD ([Nyaa.si](https://nyaa.si)) |
+| TUYU Piano Collection | [Miro's Twitter Posts](https://www.reddit.com/r/TUYU_official/comments/1dmkqpa/complete_tuyu_archive/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) |
+| アンダーメンタリティ | [ototoy.jp](https://ototoy.jp) |
 
 For those who wants songs in MP3 format, you can use the provided .bat file. <br>
 Requirement: ffmpeg
@@ -25,19 +34,28 @@ Amazon & アニメイト Benefits:
 | 1 | 梅雨明けの(TUYU arrange ver.) | 貴方を不幸に誘いますね(紙ジャケットCD付) | 2021 | 320kbps | 44.1kHz | 03:21 | MP3 | No | <img src="./cover/01.梅雨明けの(TUYU arrange ver.).jpg"> | 
 
 Single:
-| Track | Title | Album | Year | Bit Rate | Sampling Rate | Duration | Format | Lyric Embedded | Cover |
-| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
-| 1 | Compared Child (TUYU Remix) | Single | 2020/6/1 | 1092kbps | 44.1kHz | 03:35 | FLAC | Yes | <img src=".\cover\Compared Child (TUYU Remix).jpg"> |
-| 1 | If there was an Endpoint. (TUYU Remix) | Single | 2021/10/12 | 192kbps | 48kHz | 02:59 | MP3 | No | <img src=".\cover\If There Was An Endpoint..jpg"> |
-| 1 | It's Raining Nevertheless | Single | 2024/04/15 | 1050kbps | 44.1kHz | 03:43 | FLAC | Yes | <img src=".\cover\It_s Raining Nevertheless.jpg"> |
-| 1 | Revolutionary Front | Single | 2023/10/30 | 1096kbps | 44.1kHz | 03:41 | FLAC | Yes | <img src="./cover/Revolutionary Front.png"> |
-| 1 | What Sort of Ending Are You Wishing For? | Single | 2022/10/30 | 1036kbps | 44.1kHz | 03:20 | FLAC | Yes | <img src="./cover/What Sort Of Ending Are You Wishing For.jpg"> |
+| Track | Title | Year | Bit Rate | Sampling Rate | Duration | Format | Lyric Embedded | Cover |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 1 | くらべられっ子 (TUYU Remix) | 2020/6/1 | 1092kbps | 44.1kHz | 03:35 | FLAC | Yes | <img src=".\cover\Compared Child (TUYU Remix).jpg"> |
+| 1 | 終点の先が在るとするならば。 (TUYU Remix) | 2021/10/12 | 192kbps | 48kHz | 02:59 | MP3 | No | <img src=".\cover\If There Was An Endpoint..jpg"> |
+| 1 | それでも雨は降るんだね | 2024/04/15 | 1050kbps | 44.1kHz | 03:43 | FLAC | Yes | <img src=".\cover\It_s Raining Nevertheless.jpg"> |
+| 1 | 革命前線 | 2023/10/30 | 1096kbps | 44.1kHz | 03:41 | FLAC | Yes | <img src="./cover/Revolutionary Front.png"> |
+| 1 | どんな結末がお望みだい？ | 2022/10/30 | 1036kbps | 44.1kHz | 03:20 | FLAC | Yes | <img src="./cover/What Sort Of Ending Are You Wishing For.jpg"> |
+| 1 | デモーニッシュ | 2021/04/26 | 1041kbps | 44.1kHz | 02:41 | FLAC | Yes | <img src="./cover/Dämonisch.png"> |
+| 1 | かくれんぼっち | 2021 | 1008kbps | 44.1kHz | 03:14 | FLAC | Yes | <img src="./cover/Hide And Seek Alone.png"> |
+| 1 | 忠犬ハチ | 2021 | 848kbps | 44.1kHz | 03:01 | FLAC | Yes | <img src="./cover/Faitful Dog Hachi.png"> |
+| 1 | いつかオトナになれるといいね。 | 2022 | 1934kbps | 48kHz | 02:55 | FLAC | Yes | <img src="./cover/Would Be Nice If You Grow Up One Day..jpg"> |
+| 1 | アンダーキッズ | 2022 | 1938kbps | 48kHz | 03:26 | FLAC | Yes | <img src="./cover/Under Kids.jpg"> |
+| 1 | 雨模様 | 2022 | 1800kbps | 48kHz | 02:43 | FLAC | Yes | <img src="./cover/Overcast Skies.png"> |
+| 1 | 傷つけど、愛してる。 | 2023 | 1885kbps | 48kHz | 03:25 | FLAC | Yes | <img src="./cover/It Might Be Painful, But I Still Love It..jpg"> |
+| 1 | これだからやめらんない! | 2023 | 1931kbps | 48kHz | 02:45 | FLAC | Yes | <img src="./cover/And That_s Why I Can_t Stop.jpg"> |
+| 1 | アンダーヒロイン | 2023 | 1914kbps | 48kHz | 02:49 | FLAC | Yes | <img src="./cover/Under Heroine.jpg"> |
 
 プロジェクトセカイ カラフルステージ！ feat.初音ミク:
 | Track | Title | Album | Bit Rate | Sampling Rate | Duration | Format | Lyric Embedded | Cover |
 | -- | -- | -- | -- | -- | -- | -- | -- | -- |
-| 1 | どんな結末がお望みだい？ (feat. 天馬司&鳳えむ&草薙寧々&神代類&初音ミク) | どんな結末がお望みだい？/星空オーケストラ | 316kbps | 44.1kHz | 03:21 | OGG | No | <img src="./cover/どんな結末がお望みだい？ (feat. 天馬司&鳳えむ&草薙寧々&神代類&初音ミク).jpg"> |
-| 5 | アサガオの散る頃に (feat. 星乃一歌&望月穂波&初音ミク) | Leo/need SEKAI ALBUM vol.2 | 934kbps | 44.1kHz | 03:23 | FLAC | No | <img src="./cover/アサガオの散る頃に (feat. 星乃一歌&望月穂波&初音ミク).jpg"> |
+| 1 | どんな結末がお望みだい？ (feat. 天馬司&鳳えむ&草薙寧々&神代類&初音ミク) | どんな結末がお望みだい？/星空オーケストラ | 1032kbps | 44.1kHz | 03:22 | FLAC | Yes | <img src="./cover/どんな結末がお望みだい？ (feat. 天馬司&鳳えむ&草薙寧々&神代類&初音ミク).jpg"> |
+| 5 | アサガオの散る頃に (feat. 星乃一歌&望月穂波&初音ミク) | Leo/need SEKAI ALBUM vol.2 | 936kbps | 44.1kHz | 03:23 | FLAC | No | <img src="./cover/アサガオの散る頃に (feat. 星乃一歌&望月穂波&初音ミク).jpg"> |
 
 Album:
 | Track | Title | Album | Year | Bit Rate | Sampling Rate | Duration | Format | Lyric Embedded | Cover |
