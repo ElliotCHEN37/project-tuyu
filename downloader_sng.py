@@ -22,17 +22,19 @@ def download_file(url, destination):
 
 def main():
     print('''
-    ================================
-    | Welcome to                   |
-    | Project-Tuyu Downloader      |
-    | By ElliotCHEN37              |
-    | Japanese title only          |
-    | Titles were separated by "|" |
-    ================================
+=================================
+| Welcome to                    |
+| Project-Tuyu Downloader (SNG) |
+| By ElliotCHEN37               |
+| Only Support japanese title   |
+| Titles were separated by "|"  |
+=================================
     ''')
     
+    print("Fetching song list...")
     json_url = "https://github.com/ElliotCHEN37/project-tuyu/raw/main/song_list.json"
     song_list = fetch_json(json_url)
+    print("Fetched")
     
     titles = input("Title(s): ").strip().split('|')
     
