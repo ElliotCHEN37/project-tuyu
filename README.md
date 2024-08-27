@@ -5,6 +5,8 @@ If there are any issues or songs missing, feel free to open an issue or a pull r
 Using <kbd>Ctrl</kbd> + <kbd>F</kbd> to search in this page
 
 ## Changelog
+- 2024/08/27<br>
+	New FLAC Source for 終点の先が在るとするならば。 (TUYU Remix)<br>
 - 2024/08/24<br>
 	New FLAC source for Leo／need SEKAI ALBUM Vol.2 and どんな結末がお望みだい？／星空オーケストラ<br>
 	Remove embedded lyrics<Br>
@@ -37,7 +39,7 @@ Single:
 | Track | Title | Year | Bit Rate | Sampling Rate | Duration | Format | Lyric Embedded | Cover |
 | -- | -- | -- | -- | -- | -- | -- | -- | -- |
 | 1 | くらべられっ子 (TUYU Remix) | 2020/6/1 | 1092kbps | 44.1kHz | 03:35 | FLAC | Yes | <img src=".\cover\Compared Child (TUYU Remix).jpg"> |
-| 1 | 終点の先が在るとするならば。 (TUYU Remix) | 2021/10/12 | 192kbps | 48kHz | 02:59 | MP3 | No | <img src=".\cover\If There Was An Endpoint..jpg"> |
+| 1 | 終点の先が在るとするならば。 (TUYU Remix) | 2021/10/12 | 1948kbps | 48kHz | 02:59 | FLAC | Yes | <img src=".\cover\If There Was An Endpoint..jpg"> |
 | 1 | それでも雨は降るんだね | 2024/04/15 | 1050kbps | 44.1kHz | 03:43 | FLAC | Yes | <img src=".\cover\It_s Raining Nevertheless.jpg"> |
 | 1 | 革命前線 | 2023/10/30 | 1096kbps | 44.1kHz | 03:41 | FLAC | Yes | <img src="./cover/Revolutionary Front.png"> |
 | 1 | どんな結末がお望みだい？ | 2022/10/30 | 1036kbps | 44.1kHz | 03:20 | FLAC | Yes | <img src="./cover/What Sort Of Ending Are You Wishing For.jpg"> |
