@@ -1,23 +1,27 @@
-# Project-TUYU
+# ツユ計劃
 <img src="icon.jpg" height="125"><br>
-A backup of all tuyu songs<br>
-If there are any issues or songs missing, feel free to open an issue or a pull request<br>
+一個完整的ツユ歌曲備份<br>
+如果有任何問題或者歌曲遺失，歡迎打開一個新的問題或者拉取請求<br>
 
-## Changelog
+# ！！！重要！！！
+根據ぷす的推文，他將會在`2024/12/31 23:59`移除所有的ツユ歌曲（應該包括MV）。因此我決定即日起逐漸追加歌曲MV並計劃於年底以前完成！<br>
+<img src="全曲削除.PNG" height="200">
+
+## 日誌
 - 2024/09/22<br>
-	More single songs added<br>
-	New source for some benefits songs<br>
-	Some adujstments
+	更多單曲追加！<br>
+	特典歌曲的新來源<br>
+	一些調整
 - 2024/08/27<br>
-	New FLAC Source for 終点の先が在るとするならば。 (TUYU Remix)<br>
+	終点の先が在るとするならば。 (TUYU Remix) FLAC 來源<br>
 - 2024/08/24<br>
-	New FLAC source for Leo／need SEKAI ALBUM Vol.2 and どんな結末がお望みだい？／星空オーケストラ<br>
-	Remove embedded lyrics<Br>
-	Re-download lyrics using GMxLRC<br>
-	More Singles added
+	Leo/need SEKAI ALBUM Vol.2 與 どんな結末がお望みだい？/星空オーケストラ 的新FLAC來源<br>
+	移除嵌入歌詞<Br>
+	使用GMxLRC重新下載歌詞<br>
+	更多單曲
 
-## Sources
-| Track | Source |
+## 來源
+| 專輯 | 來源 |
 | -- | -- |
 | Leo／need SEKAI ALBUM Vol.2 | CD ([Nyaa.si](https://nyaa.si)) |
 | どんな結末がお望みだい？／星空オーケストラ | CD ([Nyaa.si](https://nyaa.si)) |
@@ -26,17 +30,17 @@ If there are any issues or songs missing, feel free to open an issue or a pull r
 | TUYU Piano Collection | [Miro's Twitter Posts](https://www.reddit.com/r/TUYU_official/comments/1dmkqpa/complete_tuyu_archive/) |
 | アンダーメンタリティ | [ototoy.jp](https://ototoy.jp) |
 
-## Information
-Amazon & アニメイト Benefits:
-| Track | Title | Album | Year | Bit Rate | Sampling Rate | Duration | Format | Lyric |
+## 資訊
+「亞馬遜」和「安利美特」特典:
+| \# | 標題 | 專輯 | 年份 | 位元速率 | 取樣率 | 時長 | 格式 | 歌詞 |
 | -- | -- | -- | -- | -- | -- | -- | -- | -- |
 | 1 | やっぱり雨は降るんだね Acoustic arrange ver. | やっぱり雨は降るんだね | 2020 | 775kbps | 44.1kHz | 03:34 | FLAC | No |
 | 2 | くらべられっ子 Acoustic arrange ver. | やっぱり雨は降るんだね | 2020 | 806kbps | 44.1kHz | 03:37 | FLAC | No |
 | 1 | ナツノカゼ御来光(TUYU arrange ver.) | 貴方を不幸に誘いますね(紙ジャケットCD付) | 2021 | 320kbps | 44.1kHz | 02:53 | MP3 | No |
 | 1 | 梅雨明けの(TUYU arrange ver.) | 貴方を不幸に誘いますね(紙ジャケットCD付) | 2021 | 320kbps | 44.1kHz | 03:21 | MP3 | No |
 
-Single:
-| Track | Title | Year | Bit Rate | Sampling Rate | Duration | Format | Lyric |
+單曲:
+| \# | 標題 | 年份 | 位元速率 | 取樣率 | 時長 | 格式 | 歌詞 |
 | -- | -- | -- | -- | -- | -- | -- | -- |
 | 1 | くらべられっ子 (TUYU Remix) | 2020/6/1 | 1092kbps | 44.1kHz | 03:35 | FLAC | Yes |
 | 1 | 終点の先が在るとするならば。 (TUYU Remix) | 2021/10/12 | 1948kbps | 48kHz | 02:59 | FLAC | Yes |
@@ -56,14 +60,14 @@ Single:
 | 1 | 泥の分際で私だけの大切を奪おうだなんて | 2020 | 1059kbps | 44.1kHz | 03:12 | FLAC | Yes |
 | 1 | 雨を浴びる | 2020 | 987kbps | 44.1kHz | 03:20 | FLAC | Yes |
 
-プロジェクトセカイ カラフルステージ！ feat.初音ミク:
-| Track | Title | Album | Bit Rate | Sampling Rate | Duration | Format | Lyric |
+プロジェクトセカイ カラフルステージ！ feat.初音ミク (世界計畫 繽紛舞台 feat. 初音未來):
+| \# | 標題 | 專輯 | 位元速率 | 取樣率 | 時長 | 格式 | 歌詞 |
 | -- | -- | -- | -- | -- | -- | -- | -- |
 | 1 | どんな結末がお望みだい？ (feat. 天馬司&鳳えむ&草薙寧々&神代類&初音ミク) | どんな結末がお望みだい？/星空オーケストラ | 1032kbps | 44.1kHz | 03:22 | FLAC | Yes |
 | 5 | アサガオの散る頃に (feat. 星乃一歌&望月穂波&初音ミク) | Leo/need SEKAI ALBUM vol.2 | 936kbps | 44.1kHz | 03:23 | FLAC | No |
 
-Album:
-| Track | Title | Album | Year | Bit Rate | Sampling Rate | Duration | Format | Lyric |
+專輯:
+| \# | 標題 | 專輯 | 年份 | 位元速率 | 取樣率 | 時長 | 格式 | 歌詞 |
 | -- | -- | -- | -- | -- | -- | -- | -- | -- |
 | 1 | やっぱり雨は降るんだね | やっぱり雨は降るんだね | 2020 | 1105kbps | 44.1kHz | 04:05 | FLAC | Yes |
 | 2 | 夏浅し | やっぱり雨は降るんだね | 2020 | 761kbps | 44.1kHz | 01:23 | FLAC | No |
