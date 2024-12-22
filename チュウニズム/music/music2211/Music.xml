@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MusicData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <dataName>music2211</dataName>
+  <releaseTagName>
+    <id>13</id>
+    <str>v2 2.05.00</str>
+    <data />
+  </releaseTagName>
+  <netOpenName>
+    <id>2500</id>
+    <str>v2_25 00_0</str>
+    <data />
+  </netOpenName>
+  <disableFlag>false</disableFlag>
+  <exType>0</exType>
+  <name>
+    <id>2211</id>
+    <str>くらべられっ子</str>
+    <data />
+  </name>
+  <sortName>クラヘラレツコ</sortName>
+  <artistName>
+    <id>988</id>
+    <str>ツユ</str>
+    <data />
+  </artistName>
+  <genreNames>
+    <list>
+      <StringID>
+        <id>2</id>
+        <str>niconico</str>
+        <data />
+      </StringID>
+    </list>
+  </genreNames>
+  <worksName>
+    <id>11901</id>
+    <str>ツユ</str>
+    <data />
+  </worksName>
+  <jaketFile>
+    <path>CHU_UI_Jacket_2211.dds</path>
+  </jaketFile>
+  <firstLock>false</firstLock>
+  <enableUltima>false</enableUltima>
+  <isGiftMusic>false</isGiftMusic>
+  <releaseDate>20220623</releaseDate>
+  <priority>0</priority>
+  <cueFileName>
+    <id>2211</id>
+    <str>music2211</str>
+    <data />
+  </cueFileName>
+  <worldsEndTagName>
+    <id>-1</id>
+    <str>Invalid</str>
+    <data />
+  </worldsEndTagName>
+  <starDifType>1</starDifType>
+  <stageName>
+    <id>21601</id>
+    <str>ツユ0001_雨</str>
+    <data />
+  </stageName>
+  <fumens>
+    <MusicFumenData>
+      <type>
+        <id>0</id>
+        <str>Basic</str>
+        <data>BASIC</data>
+      </type>
+      <enable>true</enable>
+      <file>
+        <path>2211_00.c2s</path>
+      </file>
+      <level>3</level>
+      <levelDecimal>0</levelDecimal>
+      <notesDesigner />
+      <defaultBpm>0</defaultBpm>
+    </MusicFumenData>
+    <MusicFumenData>
+      <type>
+        <id>1</id>
+        <str>Advanced</str>
+        <data>ADVANCED</data>
+      </type>
+      <enable>true</enable>
+      <file>
+        <path>2211_01.c2s</path>
+      </file>
+      <level>5</level>
+      <levelDecimal>0</levelDecimal>
+      <notesDesigner />
+      <defaultBpm>0</defaultBpm>
+    </MusicFumenData>
+    <MusicFumenData>
+      <type>
+        <id>2</id>
+        <str>Expert</str>
+        <data>EXPERT</data>
+      </type>
+      <enable>true</enable>
+      <file>
+        <path>2211_02.c2s</path>
+      </file>
+      <level>9</level>
+      <levelDecimal>0</levelDecimal>
+      <notesDesigner />
+      <defaultBpm>0</defaultBpm>
+    </MusicFumenData>
+    <MusicFumenData>
+      <type>
+        <id>3</id>
+        <str>Master</str>
+        <data>MASTER</data>
+      </type>
+      <enable>true</enable>
+      <file>
+        <path>2211_03.c2s</path>
+      </file>
+      <level>12</level>
+      <levelDecimal>50</levelDecimal>
+      <notesDesigner />
+      <defaultBpm>0</defaultBpm>
+    </MusicFumenData>
+    <MusicFumenData>
+      <type>
+        <id>4</id>
+        <str>Ultima</str>
+        <data>ULTIMA</data>
+      </type>
+      <enable>false</enable>
+      <file>
+        <path />
+      </file>
+      <level>0</level>
+      <levelDecimal>0</levelDecimal>
+      <notesDesigner />
+      <defaultBpm>0</defaultBpm>
+    </MusicFumenData>
+    <MusicFumenData>
+      <type>
+        <id>5</id>
+        <str>WorldsEnd</str>
+        <data>WORLD'S END</data>
+      </type>
+      <enable>false</enable>
+      <file>
+        <path />
+      </file>
+      <level>0</level>
+      <levelDecimal>0</levelDecimal>
+      <notesDesigner />
+      <defaultBpm>0</defaultBpm>
+    </MusicFumenData>
+  </fumens>
+</MusicData>

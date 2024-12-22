@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StageData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <dataName>stage021601</dataName>
+  <netOpenName>
+    <id>2500</id>
+    <str>v2_25 00_0</str>
+    <data />
+  </netOpenName>
+  <releaseTagName>
+    <id>13</id>
+    <str>v2 2.05.00</str>
+    <data />
+  </releaseTagName>
+  <name>
+    <id>21601</id>
+    <str>ツユ0001_雨</str>
+    <data />
+  </name>
+  <notesFieldLine>
+    <id>9</id>
+    <str>Yellow</str>
+    <data>イエロー</data>
+  </notesFieldLine>
+  <notesFieldFile>
+    <path>nf_21601.afb</path>
+  </notesFieldFile>
+  <baseFile>
+    <path>st_21601.afb</path>
+  </baseFile>
+  <objectFile>
+    <path />
+  </objectFile>
+</StageData>

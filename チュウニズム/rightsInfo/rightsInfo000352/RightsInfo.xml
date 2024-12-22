@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RightsInfoData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <dataName>rightsInfo000352</dataName>
+  <dispNet>true</dispNet>
+  <netOpenName>
+    <id>2500</id>
+    <str>v2_25 00_0</str>
+    <data />
+  </netOpenName>
+  <rightsText>©℗2022 TUYU Records</rightsText>
+  <name>
+    <id>352</id>
+    <str>楽曲「いつかオトナになれるといいね。」</str>
+    <data />
+  </name>
+  <image>
+    <path>CHU_UI_Rights_0352.dds</path>
+  </image>
+  <priority>0</priority>
+</RightsInfoData>

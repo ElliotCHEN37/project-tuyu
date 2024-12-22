@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CueFileData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <dataName>cueFile000988</dataName>
+  <name>
+    <id>988</id>
+    <str>music0988</str>
+    <data />
+  </name>
+  <acbFile>
+    <path>music0988.acb</path>
+  </acbFile>
+  <awbFile>
+    <path>music0988.awb</path>
+  </awbFile>
+</CueFileData>

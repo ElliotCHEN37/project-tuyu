@@ -1,0 +1,5 @@
+由@ElliotCHEN37製作
+收錄於GitHub上的project-tuyu
+全部內容來自於チュウニズム
+請遵守當地法律
+版權不歸我所有
