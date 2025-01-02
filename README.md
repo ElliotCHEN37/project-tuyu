@@ -25,7 +25,7 @@
 - 2024/08/24<br>
 	Leo/need SEKAI ALBUM Vol.2 與 どんな結末がお望みだい？/星空オーケストラ 的新FLAC來源<br>
 	移除嵌入歌詞<Br>
-	使用GMxLRC (現已被 RMxLRC取代) 重新下載歌詞<br>
+	重新下載歌詞<br>
 	更多單曲<br>
 
 ## 來源
