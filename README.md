@@ -35,7 +35,7 @@
 | どんな結末がお望みだい？／星空オーケストラ | CD |
 | やっぱり雨は降るんだね | CD |
 | 貴方を不幸に誘いますね | CD |
-| TUYU Pia否 Collection | [Miro的推文](https://www.reddit.com/r/TUYU_official/comments/1dmkqpa/complete_tuyu_archive/) |
+| TUYU Piano Collection | [Miro的推文](https://www.reddit.com/r/TUYU_official/comments/1dmkqpa/complete_tuyu_archive/) |
 | アンダーメンタリティ | OTOTOY |
 
 # 下載
